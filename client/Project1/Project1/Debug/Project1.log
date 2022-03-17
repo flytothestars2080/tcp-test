@@ -1,0 +1,4 @@
+﻿  client.c
+E:\vs experience\client\Project1\Project1\client.c(57,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\vs experience\client\Project1\Project1\client.c(89,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> E:\vs experience\client\Project1\Debug\Project1.exe
