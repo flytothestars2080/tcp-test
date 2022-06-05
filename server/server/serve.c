@@ -132,7 +132,7 @@ int main()
 	
 	 
 	closesocket(socketclient);
-closesocket(socketserver);
+    closesocket(socketserver);
 		WSACleanup();
 		
 		system("pause");
